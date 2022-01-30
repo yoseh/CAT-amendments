@@ -1,0 +1,25 @@
+.navbar-brand{
+    font-size: 80vh;
+    font-weight: bold;
+    padding-left: 15%;
+}
+.nav-item{
+    width: 40%;
+    border-spacing: 20px;
+    padding-right: 30%;
+    padding-left: 30%;
+}
+
+.my_footer{
+    max-height: 15vh;
+    color: #1516eb;
+}
+.img{
+    border-spacing: 5px;
+}
+.navbar-nav{
+    width: 40%;
+    margin-left: 30%;
+    margin-right: 30%;
+    text-align: center;
+}
